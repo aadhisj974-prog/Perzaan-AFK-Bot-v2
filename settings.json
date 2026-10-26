@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "sgp4.bytenut.cc:20281",
-    "port": 20281,
+    "port": 25565,
     "version": "1.21.1"
   },
   "position": {
