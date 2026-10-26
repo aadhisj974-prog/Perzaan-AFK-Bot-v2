@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "playhosting32",
+    "username": "whyiamhere",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "pazham.play.hosting",
-    "port": 25565,
+    "ip": "sgp4.bytenut.cc:20281",
+    "port": 20281,
     "version": "1.21.1"
   },
   "position": {
